@@ -51,6 +51,7 @@ Before running Dermacare locally, ensure that you have the following NodeJs and 
     pip install -r requirements.txt
     ```
 3. Start the development environment:
+   
    For Frontend:
    ```shell
    cd frontend
@@ -67,6 +68,6 @@ Before running Dermacare locally, ensure that you have the following NodeJs and 
     py app.py
     ```
    
-4. Access Dermacare:
+5. Access Dermacare:
 
    Open your web browser and navigate to `http://localhost:3000/` to access the Dermacare website.
