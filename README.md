@@ -1,9 +1,9 @@
 # Dermacare
 
 ## Project Overview 
-_Project's Demo Link:_ https://www.youtube.com/watch?v=n0bWanIHzdg&t=59s&ab_channel=UtkarshRai
+https://github.com/goyalh4164/Dermacare/assets/84830429/a9d8a997-6e6c-4b94-bb3d-e21299a13a41
 * Dermacare is a web-based platform designed to analyze skin conditions based on user uploaded photos. The project provides a user-friendly tool for early detection and diagnosis of skin diseases, enhancing overall skin health awareness. 
-* We came up with this project as a social cause because skin diseases continue to be the 4th leading cause of nonfatal disease burden worldwide. However, it is very difficult to provide better dermatological care to under-served or resource-poor regions in a cost-effective manner owing to the unavailability of efficient diagnostic tools, lack of connectivity, and poor laboratory infrastructure etc. 
+* We created this project as a social cause because skin diseases continue to be the 4th leading cause of nonfatal disease burden worldwide. However, it is very difficult to provide better dermatological care to under-served or resource-poor regions in a cost-effective manner owing to the unavailability of efficient diagnostic tools, lack of connectivity, and poor laboratory infrastructure etc. 
 * Thus, developing an Artificial intelligence-based tool (through Image processing technique) for preliminary diagnosis of numerous dermatological conditions will prove to be a boon in the health care system.
 
 ## Key Features of Project:
@@ -20,4 +20,53 @@ _Project's Demo Link:_ https://www.youtube.com/watch?v=n0bWanIHzdg&t=59s&ab_chan
 - Machine Learning Framework: TensorFlow
 - Data Visualization: Matplotlib, Seaborn
 - Data Handling and Preprocessing: NumPy, Pandas
-- SCSS is used for designing the website.
+- Material UI and SCSS are used for designing the website.
+
+# How to run this project locally:
+## Prerequisites:
+Before running Dermacare locally, ensure that you have the following NodeJs and Python installed on your machine.
+
+## Getting Started 🚀
+1. Clone the repository:
+
+   ```shell
+   git clone <repository-url>
+   ```
+
+2. Install dependencies: <br>
+
+   For Frontend:
+   ```shell
+   cd frontend
+   npm install
+   ```
+   For Backend:
+   ```shell
+   cd backend
+   npm install
+   ```
+    For model integration
+    ```shell
+    cd modelBackend
+    pip install -r requirements.txt
+    ```
+3. Start the development environment:
+   For Frontend:
+   ```shell
+   cd frontend
+   npm run start
+   ```
+   For Backend:
+   ```shell
+   cd backend
+   npm run start
+   ```
+   For model integration
+    ```shell
+    cd modelBackend
+    py app.py
+    ```
+   
+4. Access Dermacare:
+
+   Open your web browser and navigate to `http://localhost:3000/` to access the Dermacare website.
