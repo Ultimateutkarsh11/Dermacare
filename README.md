@@ -7,7 +7,7 @@ https://github.com/goyalh4164/Dermacare/assets/84830429/a9d8a997-6e6c-4b94-bb3d-
 * Thus, developing an Artificial intelligence-based tool (through Image processing technique) for preliminary diagnosis of numerous dermatological conditions will prove to be a boon in the health care system.
 
 ## Key Features of Project:
-* High Accuracy Disease Prediction with Deep Learning: Our website boasts an 80% accurate disease prediction utilizing cutting edge deep learning technology.
+* High Accuracy Disease Prediction with Deep Learning: Our website boasts an 78% accurate disease prediction utilizing cutting edge deep learning technology.
 
 * Personalized PDF Report: We provide a comprehensive personalized PDF report for every user, presenting detailed health insights including diagnosis, causes, symptoms, medicines suggestions, and recommendations.
 
